@@ -1,0 +1,5 @@
+Relatório de Vendas
+
+Total de vendas: R$2315.00
+Média de vendas: R$231.50
+Produto mais vendido: Produto A
